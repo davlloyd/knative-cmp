@@ -1,0 +1,10 @@
+{
+    "_comment": "name mandatory, all the rest optional fields",
+    "name": "vm-2", 
+    "template": "ubuntu-1604-template", 
+    "dc": "PKS", 
+    "resourcepool": "Cloud",
+    "vmfolder": "cloud",
+    "targethost": "",
+    "poweron": false
+}
